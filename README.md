@@ -81,9 +81,23 @@ Screenshots are stored in:/powerbi/screenshots/
 - Integrate YouTube API for automated data refresh
 - Add a GitHub Pages project page for public viewing
 - Expand analysis to include subscriber growth and upload frequency
+
+  🧭 How to Navigate This Repo:
+
+  This repository is organized to make it easy to explore the dashboard, documentation and supporting files:
+1. powerbi/  
+- Contains the main Power BI report (.pbix) and all dashboard screenshots.
+
+2. docs/  
+- Includes project documentation such as the methodology and any additional notes.
+
+3. data/  
+- Stores raw and cleaned datasets used for analysis.
+
+4. README.md  
+- Overview of the project, key insights, screenshots, and instructions.
+- This structure helps you quickly locate the dashboard, understand the workflow and review the analysis behind the project.
   
-
-
 📦 Repository Structure
 
 <img width="666" height="422" alt="image" src="https://github.com/user-attachments/assets/ca9c1b74-ade4-4c4f-af10-1f593afc57d6" />
