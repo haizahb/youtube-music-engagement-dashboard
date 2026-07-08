@@ -55,5 +55,6 @@ Screenshots are stored in:/powerbi/screenshots/
 
 📦 Repository Structure
 
-<img width="612" height="431" alt="image" src="https://github.com/user-attachments/assets/88d29ea7-6585-4936-91f3-dc7aff4454dd" />
+<img width="666" height="422" alt="image" src="https://github.com/user-attachments/assets/ca9c1b74-ade4-4c4f-af10-1f593afc57d6" />
+
 
