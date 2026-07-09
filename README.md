@@ -1,7 +1,7 @@
 Project Overview:
 
 🎵 YouTube Music & Entertainment Channel Engagement Dashboard (Power BI): 
-This project analyzes YouTube music content performance using Power BI. It transforms raw YouTube Analytics data into insights on engagement, retention, subscriber growth and content effectiveness. The dashboard supports data‑driven decisions for optimising video strategy and understanding audience behaviour.
+This project analyses YouTube music content performance using Power BI. It transforms raw YouTube Analytics data into insights on engagement, retention, subscriber growth and content effectiveness. The dashboard supports data‑driven decisions for optimising video strategy and understanding audience behaviour.
 
 🔍 Project Objectives:
 - Analyze engagement patterns across music and entertainment channels
