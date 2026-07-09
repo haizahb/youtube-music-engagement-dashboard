@@ -100,6 +100,7 @@ Screenshots are stored in:/powerbi/screenshots/
   
 📦 Repository Structure
 
-<img width="666" height="422" alt="image" src="https://github.com/user-attachments/assets/ca9c1b74-ade4-4c4f-af10-1f593afc57d6" />
+<img width="712" height="445" alt="image" src="https://github.com/user-attachments/assets/32864cdc-0a90-46a4-8149-635596640a46" />
+
 
 
