@@ -1,8 +1,7 @@
 Project Overview:
 
 🎵 YouTube Music & Entertainment Channel Engagement Dashboard (Power BI): 
-A multi‑page Power BI dashboard analyzing music and entertainment YouTube channels using aggregated engagement metrics such as views, likes and comments. 
-This project highlights top‑performing labels, artists, and entertainment creators, revealing audience interaction patterns and engagement distribution across the platform.
+This project analyzes YouTube music content performance using Power BI. It transforms raw YouTube Analytics data into insights on engagement, retention, subscriber growth and content effectiveness. The dashboard supports data‑driven decisions for optimising video strategy and understanding audience behaviour.
 
 🔍 Project Objectives:
 - Analyze engagement patterns across music and entertainment channels
@@ -28,6 +27,22 @@ This project highlights top‑performing labels, artists, and entertainment crea
 - Treemap showing likes distribution across channels
 
 This page focuses on how audiences interact with each channel, revealing which creators consistently capture attention and drive meaningful engagement.
+
+🧭 How to Navigate This Repo:
+
+This repository is organized to make it easy to explore the dashboard, documentation and supporting files:
+
+- data/ — Raw and cleaned datasets
+- docs/ — PDF dashboard and methodology
+- notebooks/ — API extraction notebook
+- powerbi/screenshots/ — PBIX file and dashboard images
+- README.md — Project overview, insights and instructions
+
+📁 Repository Structure
+
+<img width="712" height="445" alt="image" src="https://github.com/user-attachments/assets/32864cdc-0a90-46a4-8149-635596640a46" />
+
+
 
 ⭐ Key Insights
 1. Overall Engagement Is Strong but Uneven Across Videos
@@ -59,12 +74,13 @@ This page focuses on how audiences interact with each channel, revealing which c
 - Videos that perform well in YouTube Search tend to have stronger long‑term engagement, highlighting the importance of optimized titles and metadata.
 
 🛠 Tools & Technologies
-- Power BI — data modeling, DAX, visualization
-- Excel/CSV — data source
+- Power BI — Data modelling, DAX, Visualisation
+- YouTube Analytics — Primary data source
 - Google Cloud (BigQuery Studio) — cloud-based SQL exploration and data validation
 - GitHub — version control and portfolio hosting
 
-📸 Dashboard Screenshots
+📸 Dashboard Screenshots:
+
 Screenshots are stored in:/powerbi/screenshots/ 
 
 📚 What I Learned
@@ -74,7 +90,6 @@ Screenshots are stored in:/powerbi/screenshots/
 - Structuring a GitHub project for portfolio presentation
 - Understanding engagement patterns within music & entertainment content
 
-  
   🚀 Future Enhancements
 - Add per‑video analysis for deeper granularity
 - Include time‑series trends using publish dates
@@ -82,25 +97,9 @@ Screenshots are stored in:/powerbi/screenshots/
 - Add a GitHub Pages project page for public viewing
 - Expand analysis to include subscriber growth and upload frequency
 
-  🧭 How to Navigate This Repo:
-
-  This repository is organized to make it easy to explore the dashboard, documentation and supporting files:
-1. powerbi/  
-- Contains the main Power BI report (.pbix) and all dashboard screenshots.
-
-2. docs/  
-- Includes project documentation such as the methodology and any additional notes.
-
-3. data/  
-- Stores raw and cleaned datasets used for analysis.
-
-4. README.md  
-- Overview of the project, key insights, screenshots, and instructions.
-- This structure helps you quickly locate the dashboard, understand the workflow and review the analysis behind the project.
   
-📦 Repository Structure
 
-<img width="712" height="445" alt="image" src="https://github.com/user-attachments/assets/32864cdc-0a90-46a4-8149-635596640a46" />
+
 
 
 
